@@ -52,7 +52,7 @@ const socials = [
   {
     name: 'LinkedIn',
     icon: LinkedInIcon,
-    link: 'https://linkedin.com/in/divx0194,
+    link: 'https://linkedin.com/in/divx0194',
     color: '#0077B5',
     username: 'divx0194',
   },
