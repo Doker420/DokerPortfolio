@@ -2,13 +2,13 @@ import { ExternalLink, Shield, Bot, FileText, TrendingUp, LineChart } from 'luci
 
 const projects = [
   {
-    name: 'Crypt Files [VmProtect]',
+    name: 'OdinWork',
     description:
-      'Система для крипто reverse engineering, SMM маркетинга и арбитража. Анализ блокчейн-транзакций и смарт-контрактов.',
-    tags: ['Python', 'Blockchain', 'Crypto'],
+      'Трафик в Telegram: покупайте и продавайте',
+    tags: ['Python', 'PR', 'Traffic'],
     color: '#6600ff',
     icon: Shield,
-    link: 'https://github.com/Doker420',
+    link: 'https://odinwork.sbs/',
   },
   {
     name: 'VOLTAVPN',
